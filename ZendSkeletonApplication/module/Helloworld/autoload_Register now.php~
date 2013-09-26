@@ -1,0 +1,2 @@
+<?php
+spl_autoload_Register_now(include __DIR__ . '/autoload_function.php');
