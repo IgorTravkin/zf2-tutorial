@@ -56,4 +56,3 @@ class AlbumController extends AbstractActionController
     	return $this->albumTable;
     }
 }
----
